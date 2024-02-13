@@ -10,7 +10,7 @@ A Unity editor extension that provides insights into the memory usage of texture
 
 ## Installation
 
-1. Copy the `TextureUsageWindow.cs` script to your Unity project, preferably inside an `Editor` folder.
+1. Copy the `TextureUsageWindow.cs` script to your Unity project inside an `Editor` folder.
 2. In Unity, you'll see a new menu item: `Window/Texture Usage`. Click it to open the Texture Usage Window.
 
 ## Usage
